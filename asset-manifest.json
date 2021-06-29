@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d396e34a.chunk.js",
+    "main.js.map": "/static/js/main.d396e34a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f3fada17.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f3fada17.js.map",
+    "static/js/2.949c7951.chunk.js": "/static/js/2.949c7951.chunk.js",
+    "static/js/2.949c7951.chunk.js.map": "/static/js/2.949c7951.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.949c7951.chunk.js.LICENSE.txt": "/static/js/2.949c7951.chunk.js.LICENSE.txt",
+    "static/media/icon_alien_rush.5877c3c3.png": "/static/media/icon_alien_rush.5877c3c3.png",
+    "static/media/icon_cmf.634da796.png": "/static/media/icon_cmf.634da796.png",
+    "static/media/icon_ld48.dc828d5a.png": "/static/media/icon_ld48.dc828d5a.png",
+    "static/media/ss_alien_rush.d5a6105e.jpg": "/static/media/ss_alien_rush.d5a6105e.jpg",
+    "static/media/ss_cmf.64569be4.jpg": "/static/media/ss_cmf.64569be4.jpg",
+    "static/media/ss_covert.7b72ca2a.jpg": "/static/media/ss_covert.7b72ca2a.jpg",
+    "static/media/ss_element_hunt.a4282414.png": "/static/media/ss_element_hunt.a4282414.png",
+    "static/media/ss_ld48.48f9e5c9.jpg": "/static/media/ss_ld48.48f9e5c9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3fada17.js",
+    "static/js/2.949c7951.chunk.js",
+    "static/js/main.d396e34a.chunk.js"
+  ]
+}
