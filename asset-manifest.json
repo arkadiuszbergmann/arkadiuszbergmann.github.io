@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.0d66b668.chunk.js",
-    "main.js.map": "/static/js/main.0d66b668.chunk.js.map",
+    "main.js": "/static/js/main.ec27c3b5.chunk.js",
+    "main.js.map": "/static/js/main.ec27c3b5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f3fada17.js",
     "runtime-main.js.map": "/static/js/runtime-main.f3fada17.js.map",
-    "static/js/2.7944ee72.chunk.js": "/static/js/2.7944ee72.chunk.js",
-    "static/js/2.7944ee72.chunk.js.map": "/static/js/2.7944ee72.chunk.js.map",
+    "static/js/2.f0983e15.chunk.js": "/static/js/2.f0983e15.chunk.js",
+    "static/js/2.f0983e15.chunk.js.map": "/static/js/2.f0983e15.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.7944ee72.chunk.js.LICENSE.txt": "/static/js/2.7944ee72.chunk.js.LICENSE.txt",
+    "static/js/2.f0983e15.chunk.js.LICENSE.txt": "/static/js/2.f0983e15.chunk.js.LICENSE.txt",
     "static/media/icon_alien_rush.5877c3c3.png": "/static/media/icon_alien_rush.5877c3c3.png",
     "static/media/icon_cmf.634da796.png": "/static/media/icon_cmf.634da796.png",
     "static/media/icon_ld48.dc828d5a.png": "/static/media/icon_ld48.dc828d5a.png",
@@ -20,7 +20,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f3fada17.js",
-    "static/js/2.7944ee72.chunk.js",
-    "static/js/main.0d66b668.chunk.js"
+    "static/js/2.f0983e15.chunk.js",
+    "static/js/main.ec27c3b5.chunk.js"
   ]
 }
