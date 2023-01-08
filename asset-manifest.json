@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.f246f30f.js",
+    "main.js": "/static/js/main.288a3855.js",
     "static/media/ArduinoGame1.webm": "/static/media/ArduinoGame1.6f68415bb0f0aa4db05a.webm",
     "static/media/CometGame.webm": "/static/media/CometGame.43b889a109361879b6c3.webm",
+    "static/media/Rustbandits.webm": "/static/media/Rustbandits.f210a0f7ca052a93989f.webm",
+    "static/media/ss_rustbandits2.jpg": "/static/media/ss_rustbandits2.eb3b181a5d74c09738ea.jpg",
     "static/media/ss_alien_rush.jpg": "/static/media/ss_alien_rush.c7ebe121751fc8190798.jpg",
+    "static/media/ss_rustbandits1.jpg": "/static/media/ss_rustbandits1.4104de60c16a62f0a94b.jpg",
     "static/media/ss_covert2.jpg": "/static/media/ss_covert2.6711da2928c89009e2dc.jpg",
     "static/media/ss_covert.jpg": "/static/media/ss_covert.ca7e1fb1784d3a74304b.jpg",
     "static/media/cmf4.jpg": "/static/media/cmf4.116925de34ede6aa5704.jpg",
@@ -15,18 +18,12 @@
     "static/media/final_road2.jpg": "/static/media/final_road2.60dc445dc34203eb7a12.jpg",
     "static/media/cmf3.jpg": "/static/media/cmf3.c2e48a5d57c5bba786f3.jpg",
     "static/media/arduino1.png": "/static/media/arduino1.b07d8b42643c7bdcbf32.png",
-    "static/media/final_road1.jpg": "/static/media/final_road1.610e4e043dcd7196e8f0.jpg",
-    "static/media/ss_element_hunt.png": "/static/media/ss_element_hunt.a4282414d15cc10b3465.png",
-    "static/media/icon_cmf.png": "/static/media/icon_cmf.634da796d2bff20052c1.png",
-    "static/media/icon_alien_rush.png": "/static/media/icon_alien_rush.5877c3c3ed93480dbf72.png",
-    "static/media/icon_covert.jpg": "/static/media/icon_covert.d017af1842ba0195aaf8.jpg",
-    "static/media/icon_final_road.jpg": "/static/media/icon_final_road.8cddc9eba7c95df4a4ae.jpg",
-    "static/media/icon_arduino.png": "/static/media/icon_arduino.3ad962fd33bba7b969e6.png",
-    "static/media/icon_ld48.png": "/static/media/icon_ld48.dc828d5ad4c8ea5e32db.png",
+    "static/media/final_road1.jpg": "/static/media/final_road1.5bd1f90eac05433beae1.jpg",
+    "static/media/ss_element_hunt.png": "/static/media/ss_element_hunt.f58591864a881d06ad2b.png",
     "index.html": "/index.html",
-    "main.f246f30f.js.map": "/static/js/main.f246f30f.js.map"
+    "main.288a3855.js.map": "/static/js/main.288a3855.js.map"
   },
   "entrypoints": [
-    "static/js/main.f246f30f.js"
+    "static/js/main.288a3855.js"
   ]
 }
