@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.172a90dc.js",
+    "main.js": "/static/js/main.38f1b016.js",
     "static/media/ArduinoGame1.webm": "/static/media/ArduinoGame1.6f68415bb0f0aa4db05a.webm",
     "static/media/CometGame.webm": "/static/media/CometGame.43b889a109361879b6c3.webm",
     "static/media/Rustbandits.webm": "/static/media/Rustbandits.f210a0f7ca052a93989f.webm",
@@ -21,9 +21,9 @@
     "static/media/final_road1.jpg": "/static/media/final_road1.5bd1f90eac05433beae1.jpg",
     "static/media/ss_element_hunt.png": "/static/media/ss_element_hunt.f58591864a881d06ad2b.png",
     "index.html": "/index.html",
-    "main.172a90dc.js.map": "/static/js/main.172a90dc.js.map"
+    "main.38f1b016.js.map": "/static/js/main.38f1b016.js.map"
   },
   "entrypoints": [
-    "static/js/main.172a90dc.js"
+    "static/js/main.38f1b016.js"
   ]
 }
